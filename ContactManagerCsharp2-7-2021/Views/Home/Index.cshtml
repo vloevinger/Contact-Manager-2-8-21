@@ -1,0 +1,89 @@
+﻿@model PagedList.IPagedList<ContactManagerBizObjects.BizContact>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@using ContactManagerBizObjects
+@{
+    ViewBag.Title = "Contacts";
+}
+
+
+<div class="container">
+
+    <div class="row">
+        <div class="text-center">
+            <h1 class="display-4">Contact Manager</h1>
+            <p>Contact Management Made Simple</p>
+            <div>
+            </div>
+            @using (Html.BeginForm())
+            {
+                <p>
+                    Find by name: @Html.TextBox("SearchString")
+                    <input type="submit" value="Search" />
+                </p>
+            }
+            <div class="row">
+                <div class="col-md-2"></div>
+                <div class="col-md-8 text-center">
+                    <table class="table-striped table-bordered table-hover table-responsive">
+                        <thead>
+                            <tr>
+                                <td>Name</td>
+                                <td>Street</td>
+                                <td>City</td>
+                                <td>State</td>
+                                <td>Zip</td>
+                                <td>Delete</td>
+                            </tr>
+                        </thead>
+                        <tbody id="myTable">
+                            @foreach (BizContact contactobj in Model)
+                            {
+                                <tr>
+                                    <td>@Html.ActionLink(@contactobj.FirstName + " " + @contactobj.LasttName, "Edit", new { id = contactobj.PrimaryKeyValue })</td>
+                                    <td>@contactobj.Street</td>
+                                    <td>@contactobj.City</td>
+                                    <td>@contactobj.State</td>
+                                    <td>@contactobj.PostalCode</td>
+                                    <td>@Html.ActionLink("DELETE", "Delete", new { id = contactobj.PrimaryKeyValue }, new { @class = "btn btn-outline-primary" }) </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+                <div class="col-md-2"></div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-2"></div>
+                <div class="col-md-8 text-center">
+                    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+                </div>
+                <div class="col-md-2"></div>
+            </div>
+            <div class="row">
+                <div class="col-md-2"></div>
+                <div class="col-md-8 text-center">
+                    @Html.PagedListPager(Model, page => Url.Action("Index",
+        new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+                </div>
+                <div class="col-md-2"></div>
+            </div>
+            <div class="row">
+                <div class="col-md-2 mt-5">
+                    @Html.ActionLink("Add a New Contact", "Edit", new { id = 0 }, new { @class = "btn btn-outline-primary" })
+
+                </div>
+            </div>
+
+        </div>
+
+
+
+
+
+
+
+
+

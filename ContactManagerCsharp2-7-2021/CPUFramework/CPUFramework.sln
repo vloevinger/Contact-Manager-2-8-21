@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CPUFramework", "CPUFramework\CPUFramework.vbproj", "{7AFC83C9-F151-454E-A7A1-0BD9A3C66FFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VLPortfolio", "..\..\Web Projects\VLPortfolio\VLPortfolio\VLPortfolio.csproj", "{3CB174F0-853A-45A8-8E67-4FF17122359C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AFC83C9-F151-454E-A7A1-0BD9A3C66FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AFC83C9-F151-454E-A7A1-0BD9A3C66FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AFC83C9-F151-454E-A7A1-0BD9A3C66FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AFC83C9-F151-454E-A7A1-0BD9A3C66FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB174F0-853A-45A8-8E67-4FF17122359C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB174F0-853A-45A8-8E67-4FF17122359C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB174F0-853A-45A8-8E67-4FF17122359C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB174F0-853A-45A8-8E67-4FF17122359C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {246B4DFD-E6F7-4D0F-83E6-D633D736552F}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://mgellis.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CPUFramework\\CPUFramework.vbproj
+		SccProjectName1 = CPUFramework
+		SccLocalPath1 = CPUFramework
+		SccProjectUniqueName2 = ..\\..\\Web\u0020Projects\\VLPortfolio\\VLPortfolio\\VLPortfolio.csproj
+		SccProjectName2 = ../../Web\u0020Projects/VLPortfolio/VLPortfolio
+		SccLocalPath2 = ..\\..\\Web\u0020Projects\\VLPortfolio\\VLPortfolio
+	EndGlobalSection
+EndGlobal

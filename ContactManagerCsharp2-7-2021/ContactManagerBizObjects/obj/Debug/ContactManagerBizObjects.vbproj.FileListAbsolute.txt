@@ -1,0 +1,30 @@
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\Web Projects\ContactManagerBizObjects\bin\Debug\ContactManagerBizObjects.dll
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\Web Projects\ContactManagerBizObjects\bin\Debug\ContactManagerBizObjects.pdb
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\Web Projects\ContactManagerBizObjects\bin\Debug\ContactManagerBizObjects.xml
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\Web Projects\ContactManagerBizObjects\bin\Debug\CPUFramework.dll
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\Web Projects\ContactManagerBizObjects\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\Web Projects\ContactManagerBizObjects\bin\Debug\CPUFramework.pdb
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\Web Projects\ContactManagerBizObjects\bin\Debug\CPUFramework.xml
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\Web Projects\ContactManagerBizObjects\obj\Debug\ContactManagerBizObjects.vbprojAssemblyReference.cache
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\Web Projects\ContactManagerBizObjects\obj\Debug\ContactManagerBizObjects.Resources.resources
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\Web Projects\ContactManagerBizObjects\obj\Debug\ContactManagerBizObjects.vbproj.GenerateResource.cache
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\Web Projects\ContactManagerBizObjects\obj\Debug\ContactManagerBizObjects.vbproj.CoreCompileInputs.cache
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\Web Projects\ContactManagerBizObjects\obj\Debug\ContactManagerBizObjects.vbproj.CopyComplete
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\Web Projects\ContactManagerBizObjects\obj\Debug\ContactManagerBizObjects.dll
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\Web Projects\ContactManagerBizObjects\obj\Debug\ContactManagerBizObjects.xml
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\Web Projects\ContactManagerBizObjects\obj\Debug\ContactManagerBizObjects.pdb
+C:\Users\vloev\OneDrive\Documents\GitHub\Contact-Manager-2-8-21\ContactManagerCsharp2-7-2021\ContactManagerBizObjects\bin\Debug\ContactManagerBizObjects.dll
+C:\Users\vloev\OneDrive\Documents\GitHub\Contact-Manager-2-8-21\ContactManagerCsharp2-7-2021\ContactManagerBizObjects\bin\Debug\ContactManagerBizObjects.pdb
+C:\Users\vloev\OneDrive\Documents\GitHub\Contact-Manager-2-8-21\ContactManagerCsharp2-7-2021\ContactManagerBizObjects\bin\Debug\ContactManagerBizObjects.xml
+C:\Users\vloev\OneDrive\Documents\GitHub\Contact-Manager-2-8-21\ContactManagerCsharp2-7-2021\ContactManagerBizObjects\bin\Debug\CPUFramework.dll
+C:\Users\vloev\OneDrive\Documents\GitHub\Contact-Manager-2-8-21\ContactManagerCsharp2-7-2021\ContactManagerBizObjects\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\vloev\OneDrive\Documents\GitHub\Contact-Manager-2-8-21\ContactManagerCsharp2-7-2021\ContactManagerBizObjects\bin\Debug\CPUFramework.pdb
+C:\Users\vloev\OneDrive\Documents\GitHub\Contact-Manager-2-8-21\ContactManagerCsharp2-7-2021\ContactManagerBizObjects\bin\Debug\CPUFramework.xml
+C:\Users\vloev\OneDrive\Documents\GitHub\Contact-Manager-2-8-21\ContactManagerCsharp2-7-2021\ContactManagerBizObjects\obj\Debug\ContactManagerBizObjects.vbprojAssemblyReference.cache
+C:\Users\vloev\OneDrive\Documents\GitHub\Contact-Manager-2-8-21\ContactManagerCsharp2-7-2021\ContactManagerBizObjects\obj\Debug\ContactManagerBizObjects.Resources.resources
+C:\Users\vloev\OneDrive\Documents\GitHub\Contact-Manager-2-8-21\ContactManagerCsharp2-7-2021\ContactManagerBizObjects\obj\Debug\ContactManagerBizObjects.vbproj.GenerateResource.cache
+C:\Users\vloev\OneDrive\Documents\GitHub\Contact-Manager-2-8-21\ContactManagerCsharp2-7-2021\ContactManagerBizObjects\obj\Debug\ContactManagerBizObjects.vbproj.CoreCompileInputs.cache
+C:\Users\vloev\OneDrive\Documents\GitHub\Contact-Manager-2-8-21\ContactManagerCsharp2-7-2021\ContactManagerBizObjects\obj\Debug\ContactManagerBizObjects.vbproj.CopyComplete
+C:\Users\vloev\OneDrive\Documents\GitHub\Contact-Manager-2-8-21\ContactManagerCsharp2-7-2021\ContactManagerBizObjects\obj\Debug\ContactManagerBizObjects.dll
+C:\Users\vloev\OneDrive\Documents\GitHub\Contact-Manager-2-8-21\ContactManagerCsharp2-7-2021\ContactManagerBizObjects\obj\Debug\ContactManagerBizObjects.xml
+C:\Users\vloev\OneDrive\Documents\GitHub\Contact-Manager-2-8-21\ContactManagerCsharp2-7-2021\ContactManagerBizObjects\obj\Debug\ContactManagerBizObjects.pdb

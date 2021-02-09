@@ -1,0 +1,13 @@
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\VB Projects\CPUFramework\CPUFramework\bin\Debug\CPUFramework.dll
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\VB Projects\CPUFramework\CPUFramework\bin\Debug\CPUFramework.pdb
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\VB Projects\CPUFramework\CPUFramework\bin\Debug\CPUFramework.xml
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\VB Projects\CPUFramework\CPUFramework\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\VB Projects\CPUFramework\CPUFramework\obj\Debug\CPUFramework.frmCPULogin.resources
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\VB Projects\CPUFramework\CPUFramework\obj\Debug\CPUFramework.Resources.resources
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\VB Projects\CPUFramework\CPUFramework\obj\Debug\CPUFramework.vbproj.GenerateResource.cache
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\VB Projects\CPUFramework\CPUFramework\obj\Debug\CPUFramework.vbproj.CoreCompileInputs.cache
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\VB Projects\CPUFramework\CPUFramework\obj\Debug\CPUFramework.vbproj.CopyComplete
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\VB Projects\CPUFramework\CPUFramework\obj\Debug\CPUFramework.dll
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\VB Projects\CPUFramework\CPUFramework\obj\Debug\CPUFramework.xml
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\VB Projects\CPUFramework\CPUFramework\obj\Debug\CPUFramework.pdb
+C:\Users\vloev\OneDrive\Documents\CPUCodeSchool\Loevinger\VB Projects\CPUFramework\CPUFramework\obj\Debug\CPUFramework.vbprojAssemblyReference.cache
